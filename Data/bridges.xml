@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bridges>
+  <protocol name="stargate">
+    <chain>ETH</chain>
+    <chain>BSC</chain>
+    <chain>POL</chain>
+  </protocol>
+</bridges>
